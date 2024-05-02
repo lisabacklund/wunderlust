@@ -202,7 +202,7 @@ nav ul {
     background-color: var(--teal);
     display: grid;
     align-items: center;
-    padding: 2rem;
+    padding: 1rem;
     border: 0.25em solid var(--white);
     border-radius: 5%;
 }
@@ -227,6 +227,7 @@ nav ul {
 }
 #testimonials img {
     margin: 1em;
+    width: 50%;
 }
 #testimonials q {
     text-align: center;
@@ -252,7 +253,7 @@ nav ul {
     display: block;
     margin: auto;
     padding: 0.5rem;
-    width: 50%;
+    width: 70%;
 }
 #about h4 {
     font-size: 22px;
